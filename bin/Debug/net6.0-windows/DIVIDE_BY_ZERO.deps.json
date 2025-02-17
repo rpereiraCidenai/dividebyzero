@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIVIDE_BY_ZERO/1.0.0": {
+        "runtime": {
+          "DIVIDE_BY_ZERO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIVIDE_BY_ZERO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\bin\Debug\net6.0-windows\DIVIDE_BY_ZERO.exe
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\bin\Debug\net6.0-windows\DIVIDE_BY_ZERO.deps.json
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\bin\Debug\net6.0-windows\DIVIDE_BY_ZERO.runtimeconfig.json
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\bin\Debug\net6.0-windows\DIVIDE_BY_ZERO.dll
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\bin\Debug\net6.0-windows\DIVIDE_BY_ZERO.pdb
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.Form1.resources
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.csproj.GenerateResource.cache
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.AssemblyInfoInputs.cache
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.AssemblyInfo.cs
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.csproj.CoreCompileInputs.cache
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.dll
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\refint\DIVIDE_BY_ZERO.dll
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.pdb
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\DIVIDE_BY_ZERO.genruntimeconfig.cache
+D:\CIDENAI\exemplo2_DIVIDEBY_ZERO\DIVIDE_BY_ZERO\obj\Debug\net6.0-windows\ref\DIVIDE_BY_ZERO.dll
